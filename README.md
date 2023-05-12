@@ -18,7 +18,3 @@ Click on the link generated via the last cell. It will lead to a tunnel website,
 ### Select your model and upload your video. Click on ```Transcribe Video``` Sit back and relax.
 
 ![image](https://github.com/wow7seven/Video-Transcription/assets/100991200/289cc24a-d697-47ab-8119-5c0714372fec)
-
-
-The UI may take a few minutes to run.
-
